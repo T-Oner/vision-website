@@ -17,13 +17,22 @@ function HomepageHeader() {
         <p className="hero__subtitle">
           {translate({ message: 'homepage.subtitle' })}
         </p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro"
-          >
-            {translate({ message: 'homepage.tutorial.5min.button' })} ⏱️
-          </Link>
+        <div>
+          <div style={{ marginBottom: 16 }}>
+            <div className={styles.buttons}>
+              <Link
+                className="button button--secondary button--lg"
+                to="/docs/intro"
+              >
+                {translate({ message: 'homepage.tutorial.5min.button' })} ⏱️
+              </Link>
+            </div>
+          </div>
+          <div>
+            <a href="https://apps.apple.com/app/id1572457968">
+              <img src="./img/app_store_download.svg" alt="" />
+            </a>
+          </div>
         </div>
       </div>
     </header>
