@@ -30,17 +30,17 @@ function Description(props: { index: number }) {
 const FeatureList: FeatureItem[] = [
   {
     title: translate({ message: 'homepage.1.title' }),
-    image: './img/home-page-illustrations/1.png',
+    image: './img/home-page-illustrations/1.svg',
     description: Description({ index: 1 }),
   },
   {
     title: translate({ message: 'homepage.2.title' }),
-    image: './img/home-page-illustrations/2.png',
+    image: './img/home-page-illustrations/2.svg',
     description: Description({ index: 2 }),
   },
   {
     title: translate({ message: 'homepage.3.title' }),
-    image: './img/home-page-illustrations/3.png',
+    image: './img/home-page-illustrations/3.svg',
     description: Description({ index: 3 }),
   },
 ];
