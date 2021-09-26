@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Vision 简介
 
 Let's discover **Vision in less than 5 minutes**.
 
