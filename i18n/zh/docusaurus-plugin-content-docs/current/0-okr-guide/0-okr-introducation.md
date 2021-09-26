@@ -15,11 +15,11 @@ OKR 是由一个**目标**和多个**关键结果**组成。目标是告诉你�
 OKR 有一个很长的历史。
 
 - 它可以追溯到 1954 年，[Peter Drucker] 发明了 MBO ([Management by Objectives]).
-- 1968 年，Intel 公司联合创始人兼时任 CEO，[Andrew Grove]，将 MBO 发展成了我们当今熟知的 OKR 框架
-- 1974 年，[John Doerr] 加入了 Intel 公司并在任职期间学习了 OKR
+- 1968 年，Intel 公司联合创始人兼时任 CEO，[Andrew Grove]，将 MBO 发展成了我们当今熟知的 OKR 框架。
+- 1974 年，[John Doerr] 加入了 Intel 公司并在任职期间学习了 OKR.
 - John Doerr 后来将 OKR 介绍给了 Google 公司的创始人 Larry Page 和 Sergey Brin, 使得 Google 公司开始实践 OKR，并持续到今天。
-- 2020 年，猩际教育的 CEO Peter He 将 OKR 引入到公司，并不断从中受益。
-- 2020 年，时任猩际教育 Web 开发者的 Kai Shao，发现 OKR 在个人使用中的价值，在第一次尝试使用 OKR 促使自己转型 iOS 独立开发者，并发布了 Vision.
+- 2020 年，猩际教育的 CEO Peter He 将 OKR 引入到公司，将 OKR 融入到企业文化中，并不断从中受益。
+- 2020 年 10 月，时任猩际教育 Web 开发者的 Kai Shao，发现 OKR 在个人使用中的价值，在第一次尝试使用 OKR 促使自己转型 iOS 独立开发者后，发布了 Vision.
 - 2021 年 6 月，Vision 2.0 上线。
 
 ## 准备使用 OKR
@@ -46,7 +46,7 @@ OKR 是一个框架，但它也包含了人们对于如何量化工作的认知�
 - 通过创新的硬件、软件和服务为客户提供最佳用户体验 (Apple)
 - 让人类跨行星际 (SpaceX)
 - 建立最以客户为中心的商店，出售一切 (Amazon)
-- 帮助有梦想和上进心的人们更快地成长和进步 (Vision)
+- 帮助所有梦想和上进心的人们更快地成长和进步 (Vision)
 
 ## 书写 OKR 是一个认真思考的过程
 
