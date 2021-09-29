@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 周期 (Cycles)
+# 周期
 
 ## 什么是周期
 

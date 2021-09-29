@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 目标 (Objectives)
+# 目标
 
 ## 什么是目标
 
