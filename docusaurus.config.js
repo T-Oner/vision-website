@@ -52,7 +52,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         }),
       ],
     ],
-
+    plugins: ['@docusaurus/plugin-google-gtag'],
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
@@ -116,6 +116,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         prism: {
           theme: lightCodeTheme,
           darkTheme: darkCodeTheme,
+        },
+        gtag: {
+          // You can also use your "G-" Measurement ID here.
+          trackingID: 'G-53TFS5JW50',
+          // Optional fields.
+          anonymizeIP: true, // Should IPs be anonymized?
         },
       }),
   }

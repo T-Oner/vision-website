@@ -10,17 +10,15 @@ sidebar_position: 1
 
 OKR 是由**目标**和**关键结果**组成。目标是告诉你要去的地方，关键结果是你要去这个地方而需要实现的*结果*。在 Vision，我们引入了另外一个概念**任务**，它则是你要实现关键结果而要做的*具体的事*。
 
-## OKR 简史
+## OKR 与 Vision 简史
 
-OKR 有一个很长的历史。
-
-- 它可以追溯到 1954 年，[Peter Drucker] 发明了 MBO ([Management by Objectives]).
+- 1954 年，[Peter Drucker] 发明了 MBO ([Management by Objectives]).
 - 1968 年，Intel 公司联合创始人兼时任 CEO，[Andrew Grove]，将 MBO 发展成了我们当今熟知的 OKR 框架。
 - 1974 年，[John Doerr] 加入了 Intel 公司并在任职期间学习了 OKR.
 - John Doerr 后来将 OKR 介绍给了 Google 公司的创始人 Larry Page 和 Sergey Brin, 使得 Google 公司开始实践 OKR，并持续到今天。
-- 2020 年，猩际教育的 CEO Peter He 将 OKR 引入到公司，将 OKR 融入到企业文化中，并不断从中受益。
-- 2020 年 10 月，时任猩际教育 Web 开发者的 Kai Shao，发现 OKR 在个人使用中的价值，在第一次尝试使用 OKR 促使自己转型 iOS 独立开发者后，发布了 Vision.
-- 2021 年 6 月，Vision 2.0 上线。
+- 2020 年，[猩际教育] CEO Peter He 将 OKR 引入到公司，将其融入到企业文化与管理中，并不断从中受益。
+- 2020 年 10 月，时任猩际教育 Web 开发者的 Kai Shao，发现 OKR 在个人使用中的价值，在第一次尝试使用 OKR 促使自己转型 iOS 独立开发者后，并发布了 Vision 1.0.
+- 2021 年 6 月，Vision 2.0 上线。开发者 Kai 实现 iOS 独立开发转型的目标。
 
 ## 过程导向 vs. 结果导向
 
@@ -47,6 +45,7 @@ OKR 是一个框架，但它也包含了人们对于如何量化工作的认知�
 - 让人类跨行星际 (SpaceX)
 - 建立最以客户为中心的商店，出售一切 (Amazon)
 - 帮助所有梦想和上进心的人们更快地成长和进步 (Vision)
+- 能把我在生活中发现的 idea 转换成产品实现出来带给用户 （某工业设计师小李）
 
 ## OKR 与 KPI
 
@@ -76,3 +75,4 @@ OKR 与 KPI 的互相转换则是在于，当你对 KPI 有了*更高的*要求�
 [management by objectives]: https://en.wikipedia.org/wiki/Management_by_objectives
 [john doerr]: https://zh.wikipedia.org/wiki/约翰·杜尔
 [andrew grove]: https://zh.wikipedia.org/wiki/安迪·葛洛夫
+[猩际教育]: https://www.apeuni.com
