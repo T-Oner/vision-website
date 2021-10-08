@@ -17,7 +17,7 @@ OKR 是由**目标**和**关键结果**组成。目标是告诉你要去的地�
 - 1974 年，[John Doerr] 加入了 Intel 公司并在任职期间学习了 OKR.
 - John Doerr 后来将 OKR 介绍给了 Google 公司的创始人 Larry Page 和 Sergey Brin, 使得 Google 公司开始实践 OKR，并持续到今天。
 - 2020 年，[猩际教育] CEO Peter He 将 OKR 引入到公司，将其融入到企业文化与管理中，并不断从中受益。
-- 2020 年 10 月，时任猩际教育 Web 开发者的 Kai Shao，发现 OKR 在个人使用中的价值，在第一次尝试使用 OKR 促使自己转型 iOS 独立开发者后，并发布了 Vision 1.0.
+- 2020 年 10 月，时任猩际教育 Web 开发者的 Kai，发现 OKR 在个人使用中的价值，在第一次尝试使用 OKR 促使自己转型 iOS 独立开发者后，并发布了 Vision 1.0.
 - 2021 年 6 月，Vision 2.0 上线。开发者 Kai 实现 iOS 独立开发转型的目标。
 
 ## 过程导向 vs. 结果导向
