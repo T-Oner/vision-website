@@ -9,6 +9,8 @@ authors: [kai]
 
 很高兴地向大家宣布，Vision 达到了我们第三个里程碑 —— 上线付费版本。
 
+<!--truncate-->
+
 ## 回顾
 
 还完全不了解 Vision 的朋友，可以先看我们之前发布的两篇文章（*给出前面两篇文章的链接）*以及我们的官方博客。
@@ -110,6 +112,6 @@ authors: [kai]
 
 如我们多次强调，Vision 想要做一个硬核的、严肃的、有自己想法的基于 OKR 方法论打造的目标管理工具。我们会继续坚持在 UI 上简洁易用，尽可能继承 iOS 常见的交互逻辑，（现阶段）积极适配并扎根于 Apple 平台特性。
 
-Vision 的下载链接：https://apps.apple.com/app/id1572457968
-微信：VisionOKR
-邮箱：grepug@icloud.com
+- Vision 的下载链接：https://apps.apple.com/app/id1572457968
+- 微信：VisionOKR
+- 邮箱：grepug@icloud.com

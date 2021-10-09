@@ -37,14 +37,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           docs: {
             sidebarPath: require.resolve('./sidebars.js'),
             // Please change this to your repo.
-            editUrl:
-              'https://github.com/facebook/docusaurus/edit/main/website/',
+            // editUrl:
+            //   'https://github.com/facebook/docusaurus/edit/main/website/',
           },
           blog: {
-            showReadingTime: true,
+            showReadingTime: false,
             // Please change this to your repo.
-            editUrl:
-              'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            // editUrl:
+            // 'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            feedOptions: {
+              type: 'all',
+              copyright: `Copyright © ${new Date().getFullYear()} Kai Shao.`,
+            },
           },
           theme: {
             customCss: require.resolve('./src/css/custom.css'),
@@ -105,7 +109,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               items: [
                 {
                   label: 'GitHub',
-                  href: 'https://github.com/facebook/docusaurus',
+                  href: 'https://github.com/grepug/vision-website',
                 },
               ],
             },

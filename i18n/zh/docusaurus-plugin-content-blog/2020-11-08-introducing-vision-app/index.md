@@ -6,6 +6,8 @@ description: 'Your first personal OKR manager with OKR explained'
 
 这是我第一次写我自己的产品的发布笔记。
 
+<!--truncate-->
+
 我很自豪地告诉大家，Vision 这个款 App 是我第一次使用 OKR 的第一个周期的成果。如果没有 OKR 的帮助，这将是不可能实现的。然而更加梦幻的是，Vision App 正好是一款用来管理 OKR 的 app，并且是根据我的个人亲身经历来开发的。
 
 ## 遇见 OKR
