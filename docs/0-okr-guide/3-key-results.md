@@ -4,7 +4,9 @@ sidebar_position: 4
 
 # Key Results
 
-## What are Key Results
+English version is coming soon...
+
+<!-- ## What are Key Results
 
 If objectives are the place you are heading for, key results are the proofs of why you are already there. Key Results are like exams which are only focus on the score you finally get, rather than the process of how hard you've tried to prepare for them.
 
@@ -44,4 +46,4 @@ If we take out the modifier "_understand them_", it's simply a task instead of k
 
 ## Types of Key Results
 
-## Progress of Key Results
+## Progress of Key Results -->

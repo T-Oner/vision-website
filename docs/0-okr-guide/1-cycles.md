@@ -2,4 +2,6 @@
 sidebar_position: 2
 ---
 
-# 周期 (Cycles)
+# Cycles
+
+English version is coming soon...

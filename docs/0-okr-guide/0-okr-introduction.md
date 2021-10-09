@@ -2,4 +2,6 @@
 sidebar_position: 1
 ---
 
-<!-- # OKR 介绍 -->
+# OKR Introduction
+
+English version is coming soon...

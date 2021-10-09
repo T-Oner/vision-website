@@ -2,4 +2,6 @@
 sidebar_position: 3
 ---
 
-# 目标 (Objectives)
+# Objectives
+
+English version is coming soon...
