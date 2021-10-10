@@ -23,4 +23,4 @@ title: 关于
 
 你也可以通过扫描以下二维码加入我们的微信群。
 
-<img src="/static/img/wechat-group.jpeg" width="200" />
+<img src="/img/wechat-group.jpeg" width="200" />

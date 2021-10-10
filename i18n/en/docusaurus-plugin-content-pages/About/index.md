@@ -23,4 +23,4 @@ We are a young indie development team based in Chengdu China.
 
 You can also join our WeChat group by scanning the following QRCode.
 
-<img src="static/img/wechat-group.jpeg" width="200" />
+<img src="/img/wechat-group.jpeg" width="200" />
