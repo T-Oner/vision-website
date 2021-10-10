@@ -16,7 +16,7 @@ title: 关于
 - [Twitter](https://twitter.com/boilingKai)
 - [少数派](https://sspai.com/app/Vision%20-%20%E4%B8%AA%E4%BA%BA%20OKR%20%E7%AE%A1%E7%90%86)
 
-## 联系信息
+## 联系方式
 
 - 邮箱: grepug@icloud.com
 - 微信号: VisionOKR
