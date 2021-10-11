@@ -21,6 +21,6 @@ title: 关于
 - 邮箱: grepug@icloud.com
 - 微信号: VisionOKR
 
-你也可以通过扫描以下二维码加入我们的微信群。
+你也可以通过扫描以下二维码加入我们的微信群。(可长按图标保存)
 
 <img src="/img/wechat-group.jpeg" width="200" />

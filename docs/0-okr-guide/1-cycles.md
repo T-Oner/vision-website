@@ -4,4 +4,6 @@ sidebar_position: 2
 
 # Cycles
 
-English version is coming soon...
+:::caution
+English version will be available soon.
+:::

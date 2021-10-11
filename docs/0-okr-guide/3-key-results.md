@@ -4,7 +4,9 @@ sidebar_position: 4
 
 # Key Results
 
-English version is coming soon...
+:::caution
+English version will be available soon.
+:::
 
 <!-- ## What are Key Results
 
