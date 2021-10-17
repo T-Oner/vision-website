@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/apple-app-site-association",
-      "destination": "/.well-known/apple-app-site-association"
+      "source": "/.well-known/apple-app-site-association",
+      "destination": "/api/apple-app-site-association"
     }
   ]
 }
