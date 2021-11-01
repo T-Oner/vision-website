@@ -123,7 +123,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         gtag: {
           // You can also use your "G-" Measurement ID here.
-          trackingID: 'G-53TFS5JW50',
+          trackingID: 'G-3BPBRCEWL8',
           // Optional fields.
           anonymizeIP: true, // Should IPs be anonymized?
         },
