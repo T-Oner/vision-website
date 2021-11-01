@@ -7,7 +7,7 @@ module.exports = (req, res) => {
           appID: 'NND5T8LZPS.com.visionapp.vision2',
           components: [
             {
-              '/': '/events/?*',
+              '/': '/app/?*',
             },
           ],
         },
