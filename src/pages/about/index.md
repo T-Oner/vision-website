@@ -8,7 +8,7 @@ We are a young indie development team based in Chengdu China.
 
 ## App Info
 
-- Current Version: 2.4
+- Current Version: 2.5.1
 - App Store Link: https://apps.apple.com/app/id1572457968
 
 ## Social Media

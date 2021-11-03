@@ -8,7 +8,7 @@ title: 关于
 
 ## App 信息
 
-- 当前版本： 2.4
+- 当前版本： 2.5.1
 - [App Store 下载链接](https://apps.apple.com/app/id1572457968)
 
 ## 社交媒体
@@ -21,6 +21,6 @@ title: 关于
 - 邮箱: grepug@icloud.com
 - 微信号: VisionOKR
 
-你也可以通过扫描以下二维码加入我们的微信群。(可长按图标保存)
+你也可以通过扫描以下二维码加入我们的微信群。(可长按二维码保存)
 
 <img src="/img/wechat-group.jpeg" width="200" />
