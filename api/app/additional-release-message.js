@@ -5,6 +5,7 @@ module.exports = (req, res) => {
       message: '- 永久解锁兑换码 ¥78.00，限量 90 个\n- 一年订阅兑换码 ¥38.00',
       urlString: 'https://okr.vision/zh/blog/2021/11/03/promo-campaign',
       buttonText: '活动详情',
+      proEntranceSecondaryText: '🔥 促销中',
       showing: true,
     },
     en: {
@@ -12,6 +13,7 @@ module.exports = (req, res) => {
       message: '',
       urlString: '',
       buttonText: '',
+      proEntranceSecondaryText: '',
       showing: false,
     },
   });
