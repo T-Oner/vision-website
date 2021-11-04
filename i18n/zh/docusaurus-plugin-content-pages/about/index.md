@@ -23,4 +23,6 @@ title: 关于
 
 你也可以通过扫描以下二维码加入我们的微信群。(可长按二维码保存)
 
+🔥 **十一月促销活动正在进行中**，[查看详情](/zh/blog/2021/11/03/promo-campaign)
+
 <img src="/img/wechat-group.jpeg" width="200" />
