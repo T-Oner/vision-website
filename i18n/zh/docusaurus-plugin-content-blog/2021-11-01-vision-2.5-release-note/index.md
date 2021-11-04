@@ -11,11 +11,13 @@ authors: [kai]
   - 在系统日历上创建的日程也可以轻松地关联到你的关键结果
 - 我们的网站地址更换为 https://okr.vision/zh
 
-详细的新功能操作教程我们会在稍后发布。
-
 :::warning 活动
 **十一月促销活动正在进行中**，[查看详情](/zh/blog/2021/11/03/promo-campaign)
 :::
+
+## 功能介绍视频
+
+<iframe src="//player.bilibili.com/player.html?aid=378945894&bvid=BV1jf4y1u7E7&cid=436262770&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500px"> </iframe>
 
 ## 我们的心路历程
 
