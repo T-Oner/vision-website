@@ -13,6 +13,10 @@ authors: [kai]
 
 详细的新功能操作教程我们会在稍后发布。
 
+:::warning 活动
+**十一月促销活动正在进行中**，[查看详情](/zh/blog/2021/11/03/promo-campaign)
+:::
+
 ## 我们的心路历程
 
 - 在一最开始，我们设想的是把 Vision 做成一个*从宏观目标到微观任务* all in one 式的复杂的目标 / 任务管理 app；
@@ -46,9 +50,9 @@ authors: [kai]
 
 感谢用户 @RitaMargaetWang 给我们推荐视频 [终极解决方案！一键同步 ios【提醒事项】到【日历】](https://www.bilibili.com/video/BV1pK4y1Y7DX)，让我们从中获得了这次功能的灵感。
 
-## 十一月活动预告
-
-十一月不仅有双十一这样的盛大的促销日，也更有我们 Vision 的一周年庆（11 月 17 日）。于是，我们也在筹划我们的促销活动。欢迎大家加入我们[微信群]，或通过官网关注我们的最新消息。
+:::warning 活动
+**十一月促销活动正在进行中**，[查看详情](/zh/blog/2021/11/03/promo-campaign)
+:::
 
 [things]: https://culturedcode.com/things/
 [sorted³]: https://www.sortedapp.com
