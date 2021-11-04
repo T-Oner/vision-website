@@ -8,7 +8,7 @@ import HomepageFeatures from '../components/HomepageFeatures';
 import Translate, { translate } from '@docusaurus/Translate';
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
+  const { siteConfig, i18n } = useDocusaurusContext();
 
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
@@ -20,12 +20,21 @@ function HomepageHeader() {
         <div>
           <div style={{ marginBottom: 16 }}>
             <div className={styles.buttons}>
-              <Link
-                className="button button--secondary button--lg"
-                to="/docs/intro"
-              >
-                {translate({ message: 'homepage.tutorial.5min.button' })} ⏱️
-              </Link>
+              {i18n.currentLocale == 'zh' ? (
+                <Link
+                  className="button button--secondary button--lg"
+                  to="/blog/2021/11/03/promo-campaign"
+                >
+                  {translate({ message: 'homepage.tutorial.5min.button' })}
+                </Link>
+              ) : (
+                <Link
+                  className="button button--secondary button--lg"
+                  to="/docs/intro"
+                >
+                  {translate({ message: 'homepage.tutorial.5min.button' })} ⏱️
+                </Link>
+              )}
             </div>
           </div>
           <div>
