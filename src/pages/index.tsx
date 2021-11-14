@@ -36,6 +36,16 @@ function HomepageHeader() {
                 </Link>
               )}
             </div>
+            {i18n.currentLocale == 'zh' && (
+              <div className={styles.buttons} style={{ marginTop: 12 }}>
+                <Link
+                  className="button button--secondary button--lg"
+                  to="https://www.bilibili.com/video/BV1jS4y1d7pu/"
+                >
+                  🎥 查看操作教程视频
+                </Link>
+              </div>
+            )}
           </div>
           <div>
             <a href="https://apps.apple.com/app/id1572457968">
