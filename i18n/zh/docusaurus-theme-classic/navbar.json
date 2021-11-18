@@ -15,6 +15,10 @@
     "message": "关于",
     "description": "Navbar item with label About"
   },
+  "item.label.ChangeLog": {
+    "message": "更新记录",
+    "description": "Navbar item with label Change Log"
+  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
