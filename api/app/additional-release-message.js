@@ -7,7 +7,7 @@ module.exports = (req, res) => {
       urlString: 'https://okr.vision/zh/blog/2021/11/03/promo-campaign',
       buttonText: '活动详情',
       proEntranceSecondaryText: '🔥 促销中',
-      showing: true,
+      showing: false,
     },
     en: {
       title: '',
