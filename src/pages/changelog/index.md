@@ -1,5 +1,5 @@
 ---
-title: ChangeLog
+title: 更新记录
 ---
 
 # 更新记录
